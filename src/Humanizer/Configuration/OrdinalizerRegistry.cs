@@ -15,6 +15,7 @@ namespace Humanizer.Configuration
             Register("ro", new RomanianOrdinalizer());
             Register("ru", new RussianOrdinalizer());
             Register("tr", new TurkishOrdinalizer());
+			Register("sv", new SwedishOrdinalizer());
             Register("uk", new UkrainianOrdinalizer());
         }
     }

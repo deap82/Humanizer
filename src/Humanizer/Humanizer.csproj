@@ -87,6 +87,7 @@
     <Compile Include="Localisation\NumberToWords\RomanianNumberToWordsConverter.cs" />
     <Compile Include="Localisation\NumberToWords\Romanian\RomanianCardinalNumberConverter.cs" />
     <Compile Include="Localisation\NumberToWords\Romanian\RomanianOrdinalNumberConverter.cs" />
+    <Compile Include="Localisation\Ordinalizers\SwedishOrdinalizer.cs" />
     <Compile Include="Localisation\Ordinalizers\RomanianOrdinalizer.cs" />
     <Compile Include="Localisation\NumberToWords\SerbianCyrlNumberToWordsConverter.cs" />
     <Compile Include="Localisation\NumberToWords\SerbianNumberToWordsConverter.cs" />
